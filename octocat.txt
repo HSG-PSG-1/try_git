@@ -2,7 +2,11 @@ A Tale of Two Octocats
 This is the change for version 1.1!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 HT(git): handled it.
 =======
 Ok I need one more change as well. But if you can handle it, better.
 >>>>>>> kept mine
+=======
+HT: Kept my changes.
+>>>>>>> kept my changes
