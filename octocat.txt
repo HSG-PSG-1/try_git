@@ -1,4 +1,4 @@
 A Tale of Two Octocats
 This is the change for version 1.1!
 
-Ok I need one more change as well. But if you can handle it, better. Take a look!
+HT(git): handled it.
