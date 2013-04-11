@@ -1,4 +1,4 @@
 A Tale of Two Octocats
 This is the change for version 1.1!
 
-HT:kept my changes
+HT(git): No keep mine
