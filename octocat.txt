@@ -1,6 +1,5 @@
 A Tale of Two Octocats
 
-HT(git): No keep mine
-HT: some other changes
+HT: your changes had issues so removed it!
 
-This is the change for version 1.1!
+This is the new hotfix for version 1.1!
