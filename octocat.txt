@@ -1,5 +1,5 @@
 A Tale of Two Octocats
 
 HT: your changes had issues so removed it!
-
+HT (Git): Ok.
 This is the new hotfix for version 1.1!
