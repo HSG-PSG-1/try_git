@@ -1,5 +1,6 @@
 A Tale of Two Octocats
-This is the change for version 1.1!
 
 HT(git): No keep mine
 HT: some other changes
+
+This is the change for version 1.1!
